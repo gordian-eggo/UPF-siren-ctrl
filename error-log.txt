@@ -1,0 +1,2 @@
+10-8-19, 1711H:
+	- command to create realtime clock not working, need time to troubleshoot
